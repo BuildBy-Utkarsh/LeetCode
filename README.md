@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -48,4 +49,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
