@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
