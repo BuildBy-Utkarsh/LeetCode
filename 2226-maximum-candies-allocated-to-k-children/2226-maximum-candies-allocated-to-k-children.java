@@ -13,13 +13,13 @@ class Solution {
 
         while (s <= e) {
             int mid = s + (e - s) / 2;
-            long childrenCount = 0;
+            long candyCount = 0;
 
            for (int i = 0; i < candies.length; i++) {
-                childrenCount += candies[i] / mid;
+                candyCount += candies[i] / mid;
             }
 
-            if (childrenCount >= k) {
+            if (candyCount >= k) {
                 ans = mid;
                 s = mid + 1;
             } else {
