@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
