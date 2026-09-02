@@ -1,10 +1,18 @@
 class Solution {
     public int maximumCandies(int[] candies, long k) {
-        int left = 1, right = 10_000_000;
-        int result = 0;
+        int s = 1; 
+        int n = candies.length;
+        int maxi = 0;
+        for(int i = 0; i < n; i++){
+            if(maxi < candies[i]){
+                maxi = candies[i];
+            }
+        }
+        int e = maxi;
+        int ans = 0;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        while (s <= e) {
+            int mid = s + (e - s) / 2;
             long childrenCount = 0;
 
             for (int candy : candies) {
@@ -12,13 +20,13 @@ class Solution {
             }
 
             if (childrenCount >= k) {
-                result = mid;
-                left = mid + 1;
+                ans = mid;
+                s = mid + 1;
             } else {
-                right = mid - 1;
+                e = mid - 1;
             }
         }
 
-        return result;
+        return ans;
     }
 }
