@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
