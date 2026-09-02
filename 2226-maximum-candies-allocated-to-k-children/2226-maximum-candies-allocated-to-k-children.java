@@ -15,8 +15,8 @@ class Solution {
             int mid = s + (e - s) / 2;
             long childrenCount = 0;
 
-            for (int candy : candies) {
-                childrenCount += candy / mid;
+           for (int i = 0; i < candies.length; i++) {
+                childrenCount += candies[i] / mid;
             }
 
             if (childrenCount >= k) {
