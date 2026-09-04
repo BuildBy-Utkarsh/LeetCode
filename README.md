@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
