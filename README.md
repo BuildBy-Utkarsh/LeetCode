@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2643-row-with-maximum-ones](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
