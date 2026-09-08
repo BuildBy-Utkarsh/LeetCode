@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
