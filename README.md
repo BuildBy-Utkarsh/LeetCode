@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
