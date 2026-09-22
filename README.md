@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1207-unique-number-of-occurrences](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0567-permutation-in-string) |
+| [1207-unique-number-of-occurrences](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
