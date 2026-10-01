@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0443-string-compression) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
