@@ -16,8 +16,9 @@ public:
         //konsa letter kitni baar exist karega iss loop se count karenge 
         int count1 [26] = {0};
         for(int i =0; i < s1.length(); i++){
-           int index =  s1[i] - 'a';
-           count1[index]++;
+        //    int index =  s1[i] - 'a';
+        //    count1[index]++;
+           count1[s1[i] - 'a']++;
         }
 
         // travere s2 string in window of size s1 length and compare
