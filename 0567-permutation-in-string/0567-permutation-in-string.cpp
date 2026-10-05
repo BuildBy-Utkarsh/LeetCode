@@ -29,8 +29,8 @@ public:
 
         // running for first window 
         while(i < windowSize && i < s2.length()){
-            int index = s2[i] - 'a';
-            count2[index]++;
+            //int index = s2[i] - 'a';
+            count2[s2[i] - 'a']++;
             i++;
         }
         if(checkEqual(count1 , count2))
