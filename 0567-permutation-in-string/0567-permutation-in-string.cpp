@@ -3,9 +3,9 @@ class Solution {
     bool checkEqual(int a[26], int b[26]){
         for(int i=0; i<26 ; i++){
             if(a[i] != b[i])
-            return 0;
+            return false;
         }
-        return 1;
+        return true;
     }
 
 
@@ -34,7 +34,7 @@ public:
             i++;
         }
         if(checkEqual(count1 , count2))
-        return 1;
+        return true;
 
         // aage window process karo 
         while(i<s2.length()){
@@ -48,10 +48,10 @@ public:
             i++;
 
             if( checkEqual(count1 , count2))
-            return 1;
+            return true;
         }
 
-        return 0;
+        return false;
 
     }
 };
