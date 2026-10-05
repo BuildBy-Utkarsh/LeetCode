@@ -11,29 +11,29 @@ public:
             }
        
 
-       // yha kab aaoge 
-       // ya toh vector poora traverse krdia 
-       // ya fir new / different character encounter kia hai 
+            // yha kab aaoge 
+            // ya toh vector poora traverse krdia 
+            // ya fir new / different character encounter kia hai 
 
        
-       //oldChar store karlo
+            //oldChar store karlo
 
-       chars[ansIndex++] = chars[i];
+            chars[ansIndex++] = chars[i];
 
-       int count = j-i;
+            int count = j-i;
 
-       if(count > 1){
-        //convertong counting into single digit and saving in answer
+            if(count > 1){
+                //convertong counting into single digit and saving in answer
 
-        string cnt = to_string(count);
-        for(char ch : cnt){
-            chars[ansIndex++] = ch;
+                string cnt = to_string(count);
+                for(char ch : cnt){
+                    chars[ansIndex++] = ch;
 
-        }
+                }   
 
-       }
-        // moving to new / different  character
-        i=j;
+            }
+            // moving to new / different  character
+            i=j;
 
         }  
         return ansIndex;
