@@ -39,11 +39,13 @@ public:
         // aage window process karo 
         while(i<s2.length()){
             char newChar = s2[i];
-            int index = newChar - 'a';
-            count2[index]++;
+            // int index = newChar - 'a';
+            // count2[index]++;
+
+            count2[s2[i] - 'a']++;
 
             char oldChar = s2[i - windowSize];
-            index = oldChar - 'a';
+            int index = oldChar - 'a';
             count2[index]--;
             i++;
 
