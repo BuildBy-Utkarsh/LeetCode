@@ -5,8 +5,6 @@ public:
       int row = matrix.size();
       int col = matrix[0].size();  
 
-      //int count =0;
-      //int total = row*col;
 
       //index intialization
       int startingRow = 0;
@@ -17,30 +15,26 @@ public:
     while (startingRow <= endingRow && startingCol <= endingCol){
 
         //print starting row 
-        for(int index =startingCol; startingRow <= endingRow &&    index <= endingCol; index++){
+        for(int index =startingCol; startingRow <= endingRow && index <= endingCol; index++){
             ans.push_back(matrix[startingRow][index]);
-            //count++;
         }
         startingRow++;
 
         //print ending col
         for(int index =startingRow; startingCol <= endingCol &&  index <= endingRow; index++ ){
             ans.push_back(matrix[index][endingCol]);
-            //count++;
         }
         endingCol--;
 
         //print ending row
-        for(int index =endingCol; startingRow <= endingRow &&    index >= startingCol; index--){
+        for(int index =endingCol; startingRow <= endingRow &&  index >= startingCol; index--){
             ans.push_back(matrix[endingRow][index]);
-            //count++;
         }
         endingRow--;
 
         //print starting col 
-        for(int index =endingRow; startingCol <= endingCol &&   index >= startingRow; index--){
+        for(int index =endingRow; startingCol <= endingCol &&  index >= startingRow; index--){
             ans.push_back(matrix[index][startingCol]);
-            //count++;
         }
         startingCol++;
     }    
