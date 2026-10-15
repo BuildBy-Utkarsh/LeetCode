@@ -12,7 +12,7 @@ public:
             }
         }
 
-        //now reverse the matrix   
+        //now reverse the matrix or row  
 
         for(int row = 0; row < matrix.size(); row++){
            int startCol =0;
