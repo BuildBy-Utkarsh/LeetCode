@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2643-row-with-maximum-ones](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
 | ------- |
