@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0567-permutation-in-string) |
