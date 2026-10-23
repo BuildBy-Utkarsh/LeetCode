@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0268-missing-number) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Recursion
@@ -234,7 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
