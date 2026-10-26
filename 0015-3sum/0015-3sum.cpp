@@ -29,14 +29,12 @@ public:
                     right--;
 
                     // Skip duplicate left elements
-                    while (left < right &&
-                           nums[left] == nums[left - 1]) {
+                    while (left < right && nums[left] == nums[left - 1]) {
                         left++;
                     }
 
                     // Skip duplicate right elements
-                    while (left < right &&
-                           nums[right] == nums[right + 1]) {
+                    while (left < right && nums[right] == nums[right + 1]) {
                         right--;
                     }
                 }
