@@ -24,25 +24,23 @@ public:
                 int right = n - 1;
 
                 while (left < right) {
-                    long long sum = (long long)nums[i] + nums[j]
-                                  + nums[left] + nums[right];
+                    long long sum = (long long)nums[i] + nums[j] + nums[left] + nums[right];
 
                     if (sum == target) {
-                        ans.push_back({nums[i], nums[j],
-                                       nums[left], nums[right]});
+                        ans.push_back({nums[i], nums[j], nums[left], nums[right]});
 
                         left++;
                         right--;
 
                         // Skip duplicate third elements
                         while (left < right &&
-                               nums[left] == nums[left - 1]) {
+                            nums[left] == nums[left - 1]) {
                             left++;
                         }
 
                         // Skip duplicate fourth elements
                         while (left < right &&
-                               nums[right] == nums[right + 1]) {
+                            nums[right] == nums[right + 1]) {
                             right--;
                         }
                     }
