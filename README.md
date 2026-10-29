@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0054-spiral-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0125-valid-palindrome) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
