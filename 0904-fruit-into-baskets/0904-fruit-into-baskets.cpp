@@ -2,10 +2,10 @@ class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
         unordered_map<int,int> f;
-       int low = 0,high = 0;
-       int n = fruits.size();
-       int res = INT_MIN;
-       for(high = 0; high < n; high++)
+        int low = 0,high = 0;
+        int n = fruits.size();
+        int res = INT_MIN;
+        for(high = 0; high < n; high++)
        {
            f[fruits[high]]++;
            while(f.size()>2){
