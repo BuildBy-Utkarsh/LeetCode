@@ -22,7 +22,7 @@ public:
                 maxcnt = *max_element(arr, arr + 256);
                 diff = len - maxcnt;
             }
-
+            len = high - low + 1;
             res = max(res, len);
         }
 
