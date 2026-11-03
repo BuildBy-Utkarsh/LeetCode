@@ -14,8 +14,8 @@ public:
                 prod /= nums[low];
                 low++;
             }
-
-            res += high - low + 1;
+            int len = high - low + 1;
+            res += len; 
         }
 
         return res;
