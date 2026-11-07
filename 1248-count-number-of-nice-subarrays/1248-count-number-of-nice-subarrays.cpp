@@ -3,7 +3,7 @@ class Solution {
 public:
     int atMost(vector<int>& nums, int k) {
         int low = 0;
-        int count = 0;
+        int len = 0;
         int odd = 0;
 
         for (int high = 0; high < nums.size(); high++) {
@@ -19,10 +19,10 @@ public:
                 low++;
             }
 
-            count += high - low + 1;
+            len += high - low + 1;
         }
 
-        return count;
+        return len;
     }
 
     int numberOfSubarrays(vector<int>& nums, int k) {
