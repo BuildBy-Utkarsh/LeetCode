@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -336,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
