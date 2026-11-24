@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0217-contains-duplicate) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0189-rotate-array) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
@@ -362,5 +365,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Utkarsh-Pratap-Singh633/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
